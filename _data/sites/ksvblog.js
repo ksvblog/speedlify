@@ -8,6 +8,7 @@ module.exports = {
 	},
   urls: [
     "https://ksvblog.site/",
+    "https://ksvblog.github.io/",
     "https://ksvblog.netlify.app/",
     "https://ksvblog.pages.dev/",
   ],
