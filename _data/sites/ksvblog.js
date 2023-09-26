@@ -3,7 +3,7 @@ module.exports = {
   description: "K's V/Blog Personal Websites",
   skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
   options: {
-    frequency: 60 * 12, // 23 hours
+    frequency: 60 * 23, // 23 hours
     freshChrome: "site",
   },
   urls: [
