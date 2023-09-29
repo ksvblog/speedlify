@@ -2,8 +2,8 @@ module.exports = {
   name: "ksvblog",
   description: "K's V/Blog Personal Websites",
   options: {
-		frequency: 60 * 23, // 24 hours
-    freshChrome: "site",
+	  frequency: 60 * 23, // 24 hours
+	  freshChrome: "site",
   },
   urls: [
     "https://ksvblog.site/",
